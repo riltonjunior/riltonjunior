@@ -1,8 +1,11 @@
 ## Hi, everyone. I'm Rilton Leão.
 
 🔭 I’m currently working with Product Design @ Stone Co
+
 🌱 I’m currently learning React and Vue.js
+
 📫 How to reach me: rilton.art@gmail.com
+
 ⚡ I'm passionate about UX and front-end development
 
 <div align="center">
